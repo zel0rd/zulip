@@ -7,7 +7,7 @@
 3. 권한 요청이 실패될 경우가 있으니 zulip-core@googlegroups.com으로 메일을 보내면 빠르게 처리해드리겠습니다.
 
 
-- 자세한 사항은 : https://zulip.readthedocs.io/en/latest/translating/translating.html을 참고합니다.
+- 자세한 사항은 : https://zulip.readthedocs.io/en/latest/translating/translating.html 을 참고합니다.
 
 
 
